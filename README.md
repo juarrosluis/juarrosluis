@@ -27,7 +27,7 @@
 - 💬 Ask me about NodeJS and CI/CD.
 - 📫 How to reach me: [Twitter - @JuarrosLuis](https://twitter.com/JuarrosLuis) , [Youtube - @luisjuarros](https://www.youtube.com/channel/UC5jtsMqBh4TZSUg1Tfxbkdw/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am 40 years old already!
+- ⚡ Fun fact: I am 41 years old already!
 
 [![Twitter: JuarrosLuis](https://img.shields.io/twitter/follow/JuarrosLuis?style=social)](https://twitter.com/JuarrosLuis)
 [![Linkedin: luisjuarros](https://img.shields.io/badge/-LuisJuarros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/luisjuarros/)
